@@ -8,3 +8,6 @@ The purpose of this project was to delve into the process of data analysis with 
 This project was written in a jupyter notebook, version 5.9 (LTS) with a python 2.7 kernel. 
 
 This was the comprehensive project for the first course in my Udacity nanodegree, focusing on data analysis and data science. It does not go extremely deep into any single phase of the data analysis process, but rather gives a shallow view of the entire process.
+
+final_project.ipynb is the jupyter notebook file, which will render as an html page when viewed in github. 
+final_project_attempt2.html is the second submission of my project, identical the final_project.ipynb but will render as an HTML script when viewed in github.
