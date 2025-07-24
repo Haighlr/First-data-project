@@ -1,4 +1,5 @@
-# Into_Data_Analysis
+# First project
+
 ## About me:
 My name is Lucas Haigh, I am a student of Western Governors University's Data Analysis/Data Management BS program, and currently working on my Udacity Data Analysis nanodegree. 
 
